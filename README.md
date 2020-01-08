@@ -1,2 +1,3 @@
-# ansible-collection-aws-agents
-A collection of Ansible roles and playbooks to deploy aws agents.
+# Ansible Collection - diodonfrost.aws_agents
+
+Documentation for the collection.
